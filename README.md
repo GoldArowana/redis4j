@@ -1,1 +1,1 @@
-# redis4j
+# Redis Connector (Java)
